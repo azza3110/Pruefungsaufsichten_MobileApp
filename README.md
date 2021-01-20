@@ -10,3 +10,7 @@ Aufsichten sollen durch spezielle Anwendungen unterstützt werden
 - Identitätskontrollen leichter durchführen (weniger suchen)
 - Prüflinge unter Vorbehalt und Protokolleeinträge verwalten
 - Anzeige der Klausurrichtlinien, Klausur, Referenzlösungen ohne Blätterstapel
+
+## Programmiersprachen
+
+- Flutter & Dart 
