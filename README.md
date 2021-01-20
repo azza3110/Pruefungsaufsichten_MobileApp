@@ -14,3 +14,8 @@ Aufsichten sollen durch spezielle Anwendungen unterstützt werden
 ## Programmiersprachen
 
 - Flutter & Dart 
+
+
+## Programmiersprachen
+
+- Erster Release : 26. Jan 2021
